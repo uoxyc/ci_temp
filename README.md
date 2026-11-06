@@ -1,12 +1,4 @@
 
-[ci-temp.gif](https://uoxyc.github.io/ci_temp/ci-temp.gif)
-
-[.gif = fig. image](https://raw.githubusercontent.com/uoxyc/ci_temp/refs/heads/gh-pages/images/ci-temp.gif)
-
-<img width="1134" height="906" alt="image" src="https://github.com/user-attachments/assets/3a495f6a-d87d-4ac3-bdc5-613345995a20" />
-
-
-https://raw.githubusercontent.com/uoxyc/ci_temp/refs/heads/gh-pages/images/ci-temp.gif
 
 <img width="534" height="406" alt="image" src="https://raw.githubusercontent.com/uoxyc/ci_temp/refs/heads/gh-pages/images/ci-temp.gif" />
 
@@ -14,7 +6,7 @@ https://raw.githubusercontent.com/uoxyc/ci_temp/refs/heads/gh-pages/images/ci-te
 
 # ci_temp A₽p html [hимик тАбЛи©А℞ мен'Де Лёв]
 
-Temperature Simulation
+Temperature Simulation (Visualisation on molecular stage)
 ----------------------
 [inde_ხ](https://barionleg.github.io/ci_temp/index.html) by [©urva$TEC](https://github.com/barionleg/CurvasTES/blob/master/index.html)
 
