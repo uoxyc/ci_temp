@@ -3,6 +3,7 @@
 
 [.gif = fig. image](https://raw.githubusercontent.com/uoxyc/ci_temp/refs/heads/gh-pages/images/ci-temp.gif)
 
+<img width="1134" height="906" alt="image" src="https://github.com/user-attachments/assets/3a495f6a-d87d-4ac3-bdc5-613345995a20" />
 
 
 # ci_temp A₽p html [hимик тАбЛи©А℞ мен'Де Лёв]
