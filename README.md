@@ -8,7 +8,7 @@
 
 Temperature Simulation (Visualisation on molecular stage)
 ----------------------
-[inde_ხ](https://barionleg.github.io/ci_temp/index.html) by [©urva$TEC](https://github.com/barionleg/CurvasTES/blob/master/index.html)
+[inde_ხ](https://uoxyc.github.io/ci_temp/index.html) 
 
 A small visualization of particles and their reactions to different temperatures created in HTML5 and JavaScript.
 
