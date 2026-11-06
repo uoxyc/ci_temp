@@ -1,6 +1,8 @@
 
 [ci-temp.gif](https://uoxyc.github.io/ci_temp/ci-temp.gif)
 
+[.gif = fig. image](https://raw.githubusercontent.com/uoxyc/ci_temp/refs/heads/gh-pages/images/ci-temp.gif)
+
 
 
 # ci_temp A₽p html [hимик тАбЛи©А℞ мен'Де Лёв]
