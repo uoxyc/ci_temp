@@ -6,6 +6,12 @@
 <img width="1134" height="906" alt="image" src="https://github.com/user-attachments/assets/3a495f6a-d87d-4ac3-bdc5-613345995a20" />
 
 
+https://raw.githubusercontent.com/uoxyc/ci_temp/refs/heads/gh-pages/images/ci-temp.gif
+
+<img width="534" height="406" alt="image" src="https://raw.githubusercontent.com/uoxyc/ci_temp/refs/heads/gh-pages/images/ci-temp.gif" />
+
+
+
 # ci_temp A₽p html [hимик тАбЛи©А℞ мен'Де Лёв]
 
 Temperature Simulation
