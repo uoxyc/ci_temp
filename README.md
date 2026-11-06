@@ -1,3 +1,8 @@
+
+[ci-temp.gif](https://uoxyc.github.io/ci_temp/ci-temp.gif)
+
+
+
 # ci_temp A₽p html [hимик тАбЛи©А℞ мен'Де Лёв]
 
 Temperature Simulation
